@@ -1,0 +1,20 @@
+[1714921869.595][INFO]: Starting ChromeDriver 124.0.6367.91 (51df0e5e17a8b0a4f281c1665dbd1b8a0c6b46af-refs/branch-heads/6367@{#984}) on port 9542
+[1714921869.595][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1714921870.491][INFO]: [a2871c9be0e0f63221117e75f860eec1] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [  ],
+            "debuggerAddress": "127.0.0.1:9222",
+            "extensions": [  ]
+         },
+         "goog:loggingPrefs": {
+            "browser": "INFO",
+            "driver": "ALL"
+         }
+      } ]
+   }
+}
+[1714921930.555][INFO]: [a2871c9be0e0f63221117e75f860eec1] RESPONSE InitSession ERROR unknown error: cannot connect to chrome at 127.0.0.1:9222
+from chrome not reachable
